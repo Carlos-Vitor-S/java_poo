@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Arrays;
 
-public class Medico {
+public class Medico extends Main{
 
     private String nome;
 
